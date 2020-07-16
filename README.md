@@ -27,7 +27,7 @@
 |      |  [ ]()  | [Show National Contiguity with a Force Directed Graph](./data-vis/force-directed-graph) |  |
 |      |  [ ]()  | [Map Data Across the Globe](./data-vis/data-across-globe) |  |
 |   7/15/2020   |  Node, Express  | [Timestamp Microservice](./backend/api-timestamp) |  |
-|      |  [ ]()  | [Request Header Parser Microservice](./backend/api-request-header) |  |
+|   7/16/2020   |  Node, Express  | [Request Header Parser Microservice](./backend/api-request-header) |  |
 |      |  [ ]()  | [URL Shortener Microservice](./backend/api-url-shortener) |  |
 |      |  [ ]()  | [Image Search Abstraction Layer](./backend/api-image-search) |  |
 |      |  [ ]()  | [File Metadata Microservice](./backend/api-file-metadata) |  |
