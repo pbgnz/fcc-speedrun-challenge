@@ -1,3 +1,6 @@
 [submodule "backend/api-timestamp/timestamp-microservice"]
 	path = backend/api-timestamp/timestamp-microservice
 	url = https://github.com/escobot/timestamp-microservice.git
+[submodule "backend/api-request-header/request-header-parser-microservice"]
+	path = backend/api-request-header/request-header-parser-microservice
+	url = https://github.com/escobot/request-header-parser-microservice.git
