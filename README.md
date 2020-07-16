@@ -28,7 +28,7 @@
 |      |  [ ]()  | [Map Data Across the Globe](./data-vis/data-across-globe) |  |
 |   7/15/2020   |  Node, Express  | [Timestamp Microservice](./backend/api-timestamp) |  |
 |   7/16/2020   |  Node, Express  | [Request Header Parser Microservice](./backend/api-request-header) |  |
-|      |  [ ]()  | [URL Shortener Microservice](./backend/api-url-shortener) |  |
+|   7/16/2020   |  Node, Express, Redis  | [URL Shortener Microservice](./backend/api-url-shortener) |  |
 |      |  [ ]()  | [Image Search Abstraction Layer](./backend/api-image-search) |  |
 |      |  [ ]()  | [File Metadata Microservice](./backend/api-file-metadata) |  |
 |      |  [ ]()  | [Build a Voting App](./backend/app-voting) |  |
