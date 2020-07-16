@@ -4,3 +4,6 @@
 [submodule "backend/api-request-header/request-header-parser-microservice"]
 	path = backend/api-request-header/request-header-parser-microservice
 	url = https://github.com/escobot/request-header-parser-microservice.git
+[submodule "backend/api-url-shortener/url-shortener-microservice"]
+	path = backend/api-url-shortener/url-shortener-microservice
+	url = https://github.com/escobot/url-shortener-microservice.git
