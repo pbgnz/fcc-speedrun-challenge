@@ -7,3 +7,6 @@
 [submodule "backend/api-url-shortener/url-shortener-microservice"]
 	path = backend/api-url-shortener/url-shortener-microservice
 	url = https://github.com/escobot/url-shortener-microservice.git
+[submodule "backend/api-file-metadata/file-metadata-microservice"]
+	path = backend/api-file-metadata/file-metadata-microservice
+	url = https://github.com/escobot/file-metadata-microservice.git
