@@ -30,7 +30,7 @@
 |   7/16/2020   |  Node, Express  | [Request Header Parser Microservice](./backend/api-request-header) |  |
 |   7/16/2020   |  Node, Express, Redis  | [URL Shortener Microservice](./backend/api-url-shortener) |  |
 |      |  [ ]()  | [Image Search Abstraction Layer](./backend/api-image-search) |  |
-|      |  [ ]()  | [File Metadata Microservice](./backend/api-file-metadata) |  |
+|   7/20/2020   |  Node, Express  | [File Metadata Microservice](./backend/api-file-metadata) |  |
 |      |  [ ]()  | [Build a Voting App](./backend/app-voting) |  |
 |      |  [ ]()  | [Build a Nightlife Coordination App](./backend/app-nightlife) |  |
 |      |  [ ]()  | [Chart the Stock Market](./backend/app-stock-market) |  |
