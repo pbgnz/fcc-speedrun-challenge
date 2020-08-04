@@ -10,3 +10,6 @@
 [submodule "backend/api-file-metadata/file-metadata-microservice"]
 	path = backend/api-file-metadata/file-metadata-microservice
 	url = https://github.com/escobot/file-metadata-microservice.git
+[submodule "frontend/tribute-page/tribute-page"]
+	path = frontend/tribute-page/tribute-page
+	url = https://github.com/escobot/tribute-page.git
