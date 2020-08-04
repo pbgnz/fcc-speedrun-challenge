@@ -6,7 +6,7 @@
 | Complete Date | Technologies |Project  |
 |----------|---------|----------|
 |      |  [ ]()  | [Comprehensive Portfolio as a Single Page App](./portfolio) |   |
-|      |  [ ]()  | [Build a Tribute Page](./frontend/tribute-page) |  |
+|   8/4/2020   |  Html, Css, Bootstrap  | [Build a Tribute Page](./frontend/tribute-page) |  |
 |      |  [ ]()  | [Build a Personal Portfolio Webpage](./frontend/portfolio) |  |
 |      |  [ ]()  | [Build a Random Quote Machine](./frontend/random-quote-machine) |  |
 |      |  [ ]()  | [Show the Local Weather](./frontend/local-weather) |  |
