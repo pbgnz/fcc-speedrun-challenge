@@ -13,3 +13,6 @@
 [submodule "frontend/tribute-page/tribute-page"]
 	path = frontend/tribute-page/tribute-page
 	url = https://github.com/escobot/tribute-page.git
+[submodule "frontend/random-quote-machine/random-quote-machine"]
+	path = frontend/random-quote-machine/random-quote-machine
+	url = https://github.com/escobot/random-quote-machine.git

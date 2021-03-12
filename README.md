@@ -8,7 +8,7 @@
 |      |  [ ]()  | [Comprehensive Portfolio as a Single Page App](./portfolio) |   |
 |   8/4/2020   |  Html, Css, Bootstrap  | [Build a Tribute Page](./frontend/tribute-page) |  |
 |      |  [ ]()  | [Build a Personal Portfolio Webpage](./frontend/portfolio) |  |
-|      |  [ ]()  | [Build a Random Quote Machine](./frontend/random-quote-machine) |  |
+|   3/11/2021   |  React, Node, Express  | [Build a Random Quote Machine](./frontend/random-quote-machine) |  |
 |      |  [ ]()  | [Show the Local Weather](./frontend/local-weather) |  |
 |      |  [ ]()  | [Build a Wikipedia Viewer](./frontend/wikipedia-viewer) |  |
 |      |  [ ]()  | [Use the Twitch.tv JSON API](./frontend/twitch-client) |  |
