@@ -1,4 +1,4 @@
-# Chingu FCC Speedrun Challenge
+# FCC Speedrun Challenge
 
 ## FCC Projects
 
