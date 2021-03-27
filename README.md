@@ -1,5 +1,11 @@
 # FCC Speedrun Challenge
 
+## Usage
+
+```bash
+# download all submodules
+git submodule update --init --recursive
+```
 ## FCC Projects
 
 
