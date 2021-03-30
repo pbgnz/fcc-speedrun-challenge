@@ -16,3 +16,6 @@
 [submodule "frontend/random-quote-machine/random-quote-machine"]
 	path = frontend/random-quote-machine/random-quote-machine
 	url = https://github.com/escobot/random-quote-machine.git
+[submodule "backend/api-image-search/image-search-microservice"]
+	path = backend/api-image-search/image-search-microservice
+	url = https://github.com/escobot/image-search-microservice.git
