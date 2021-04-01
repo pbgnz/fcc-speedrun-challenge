@@ -19,3 +19,6 @@
 [submodule "backend/api-image-search/image-search-microservice"]
 	path = backend/api-image-search/image-search-microservice
 	url = https://github.com/escobot/image-search-microservice.git
+[submodule "frontend/portfolio/portfolio"]
+	path = frontend/portfolio/portfolio
+	url = https://github.com/escobot/portfolio.git

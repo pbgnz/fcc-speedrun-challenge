@@ -12,9 +12,9 @@ git submodule update --init --recursive
 | Complete Date | Technologies |Project  |
 |----------|---------|----------|
 |      |  [ ]()  | [Comprehensive Portfolio as a Single Page App](./portfolio) |   |
-|   8/4/2020   |  Html, Css, Bootstrap  | [Build a Tribute Page](./frontend/tribute-page) |  |
-|      |  [ ]()  | [Build a Personal Portfolio Webpage](./frontend/portfolio) |  |
-|   3/30/2021   |  React, Node, Express  | [Build a Random Quote Machine](./frontend/random-quote-machine) |  |
+|   08/04/2020   |  Html, Css, Bootstrap  | [Build a Tribute Page](./frontend/tribute-page) |  |
+|   04/01/2021   |  Html, Css, Bootstrap  | [Build a Personal Portfolio Webpage](./frontend/portfolio) |  |
+|   03/30/2021   |  React, Node, Express  | [Build a Random Quote Machine](./frontend/random-quote-machine) |  |
 |      |  [ ]()  | [Show the Local Weather](./frontend/local-weather) |  |
 |      |  [ ]()  | [Build a Wikipedia Viewer](./frontend/wikipedia-viewer) |  |
 |      |  [ ]()  | [Use the Twitch.tv JSON API](./frontend/twitch-client) |  |
@@ -32,11 +32,11 @@ git submodule update --init --recursive
 |      |  [ ]()  | [Visualize Data with a Heat Map](./data-vis/heat-map) |  |
 |      |  [ ]()  | [Show National Contiguity with a Force Directed Graph](./data-vis/force-directed-graph) |  |
 |      |  [ ]()  | [Map Data Across the Globe](./data-vis/data-across-globe) |  |
-|   7/15/2020   |  Node, Express  | [Timestamp Microservice](./backend/api-timestamp) |  |
-|   7/16/2020   |  Node, Express  | [Request Header Parser Microservice](./backend/api-request-header) |  |
-|   7/16/2020   |  Node, Express, Redis, MongoDB  | [URL Shortener Microservice](./backend/api-url-shortener) |  |
+|   07/15/2020   |  Node, Express  | [Timestamp Microservice](./backend/api-timestamp) |  |
+|   07/16/2020   |  Node, Express  | [Request Header Parser Microservice](./backend/api-request-header) |  |
+|   07/16/2020   |  Node, Express, Redis, MongoDB  | [URL Shortener Microservice](./backend/api-url-shortener) |  |
 |      |  [ ]()  | [Image Search Abstraction Layer](./backend/api-image-search) |  |
-|   7/20/2020   |  Node, Express  | [File Metadata Microservice](./backend/api-file-metadata) |  |
+|   07/20/2020   |  Node, Express  | [File Metadata Microservice](./backend/api-file-metadata) |  |
 |      |  [ ]()  | [Build a Voting App](./backend/app-voting) |  |
 |      |  [ ]()  | [Build a Nightlife Coordination App](./backend/app-nightlife) |  |
 |      |  [ ]()  | [Chart the Stock Market](./backend/app-stock-market) |  |
