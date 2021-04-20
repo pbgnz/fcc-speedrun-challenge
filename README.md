@@ -32,11 +32,11 @@ git submodule update --init --recursive
 |      |  [ ]()  | [Visualize Data with a Heat Map](./data-vis/heat-map) |  |   |
 |      |  [ ]()  | [Show National Contiguity with a Force Directed Graph](./data-vis/force-directed-graph) |  |   |
 |      |  [ ]()  | [Map Data Across the Globe](./data-vis/data-across-globe) |  |   |
-|   07/15/2020   |  Node, Express  | [Timestamp Microservice](./backend/api-timestamp) |  |   |
-|   07/16/2020   |  Node, Express  | [Request Header Parser Microservice](./backend/api-request-header) |  |   |
+|   07/15/2020   |  Node, Express  | [Timestamp Microservice](./backend/api-timestamp) | [link](https://escobot-timestamp-microservice.herokuapp.com/) |   |
+|   07/16/2020   |  Node, Express  | [Request Header Parser Microservice](./backend/api-request-header) | [link](https://escobot-request-header-parser-microservice.glitch.me/api/whoami)  |   |
 |   07/16/2020   |  Node, Express, Redis, MongoDB  | [URL Shortener Microservice](./backend/api-url-shortener) | []() |   |
 |      |  [ ]()  | [Image Search Abstraction Layer](./backend/api-image-search) |  |   |
-|   07/20/2020   |  Node, Express  | [File Metadata Microservice](./backend/api-file-metadata) |  |   |
+|   07/20/2020   |  Node, Express  | [File Metadata Microservice](./backend/api-file-metadata) | [link](https://escobot-file-metadata-service.herokuapp.com/)  |   |
 |      |  [ ]()  | [Build a Voting App](./backend/app-voting) |  |   |
 |      |  [ ]()  | [Build a Nightlife Coordination App](./backend/app-nightlife) |  |   |
 |      |  [ ]()  | [Chart the Stock Market](./backend/app-stock-market) |  |   |

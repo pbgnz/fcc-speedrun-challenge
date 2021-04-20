@@ -22,3 +22,6 @@
 [submodule "frontend/portfolio/portfolio"]
 	path = frontend/portfolio/portfolio
 	url = https://github.com/escobot/portfolio.git
+[submodule "frontend/local-weather/local-weather"]
+	path = frontend/local-weather/local-weather
+	url = https://github.com/escobot/local-weather.git
