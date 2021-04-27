@@ -16,7 +16,7 @@ git submodule update --init --recursive
 |   04/01/2021   |  Html, Css, Bootstrap  | [Build a Personal Portfolio Webpage](./frontend/portfolio) | [link](https://escobot.github.io/portfolio/) |   |
 |   03/30/2021   |  React, Node, Express  | [Build a Random Quote Machine](./frontend/random-quote-machine) | [link](https://escobot.github.io/random-quote-machine/) |   |
 |   04/22/2021   |  React  | [Show the Local Weather](./frontend/local-weather) | [link](https://escobot.github.io/local-weather/)  |   |
-|      |  [ ]()  | [Build a Wikipedia Viewer](./frontend/wikipedia-viewer) |  |   |
+|   04/27/2021   |  React  | [Build a Wikipedia Viewer](./frontend/wikipedia-viewer) | [link](https://escobot.github.io/wikipedia-viewer/)  |   |
 |      |  [ ]()  | [Use the Twitch.tv JSON API](./frontend/twitch-client) |  |   |
 |      |  [ ]()  | [Build a JavaScript Calculator](./frontend/calculator) |  |   |
 |      |  [ ]()  | [Build a Pomodoro Clock](./frontend/pomodoro-clock) |  |   |

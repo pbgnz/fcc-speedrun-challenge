@@ -25,3 +25,6 @@
 [submodule "frontend/local-weather/local-weather"]
 	path = frontend/local-weather/local-weather
 	url = https://github.com/escobot/local-weather.git
+[submodule "frontend/wikipedia-viewer/wikipedia-viewer"]
+	path = frontend/wikipedia-viewer/wikipedia-viewer
+	url = https://github.com/escobot/wikipedia-viewer.git
