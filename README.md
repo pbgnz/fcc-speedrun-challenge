@@ -12,7 +12,7 @@ git submodule update --init --recursive
 | Complete Date | Technologies |Project  | Demo |
 |----------|---------|----------|----------|
 |      |  [ ]()  | [Comprehensive Portfolio as a Single Page App](./portfolio) |   |   |
-|   08/04/2020   |  Html, Css, Bootstrap  | [Build a Tribute Page](./frontend/tribute-page) |  |   |
+|   08/04/2020   |  Html, Css, Bootstrap  | [Build a Tribute Page](./frontend/tribute-page) | [link](https://escobot.github.io/tribute-page/) |   |
 |   04/01/2021   |  Html, Css, Bootstrap  | [Build a Personal Portfolio Webpage](./frontend/portfolio) | [link](https://escobot.github.io/portfolio/) |   |
 |   03/30/2021   |  React, Node, Express  | [Build a Random Quote Machine](./frontend/random-quote-machine) | [link](https://escobot.github.io/random-quote-machine/) |   |
 |   04/22/2021   |  React  | [Show the Local Weather](./frontend/local-weather) | [link](https://escobot.github.io/local-weather/)  |   |
