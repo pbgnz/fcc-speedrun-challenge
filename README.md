@@ -35,7 +35,7 @@ git submodule update --init --recursive
 |   07/15/2020   |  Node, Express  | [Timestamp Microservice](./backend/api-timestamp) | [link](https://escobot-timestamp-microservice.glitch.me/) |   |
 |   07/16/2020   |  Node, Express  | [Request Header Parser Microservice](./backend/api-request-header) | [link](https://escobot-request-header-parser-microservice.glitch.me/api/whoami)  |   |
 |   07/16/2020   |  Node, Express, Redis, MongoDB  | [URL Shortener Microservice](./backend/api-url-shortener) | []() |   |
-|      |  [ ]()  | [Image Search Abstraction Layer](./backend/api-image-search) |  |   |
+|   07/06/2021   |  Node, Express  | [Image Search Abstraction Layer](./backend/api-image-search) |  |   |
 |   07/20/2020   |  Node, Express  | [File Metadata Microservice](./backend/api-file-metadata) | [link](https://escobot-file-metadata-microservice.glitch.me/)  |   |
 |      |  [ ]()  | [Build a Voting App](./backend/app-voting) |  |   |
 |      |  [ ]()  | [Build a Nightlife Coordination App](./backend/app-nightlife) |  |   |
