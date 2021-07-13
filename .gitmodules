@@ -28,3 +28,6 @@
 [submodule "frontend/wikipedia-viewer/wikipedia-viewer"]
 	path = frontend/wikipedia-viewer/wikipedia-viewer
 	url = https://github.com/escobot/wikipedia-viewer.git
+[submodule "backend/app-book-trading/bookify"]
+	path = backend/app-book-trading/bookify
+	url = https://github.com/escobot/bookify.git
