@@ -2,9 +2,14 @@
 
 ## Usage
 
+download all submodules
 ```bash
-# download all submodules
 git submodule update --init --recursive
+```
+
+update all submodules
+```bash
+git submodule foreach git pull origin master
 ```
 ## FCC Projects
 
