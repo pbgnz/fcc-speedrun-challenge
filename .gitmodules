@@ -1,33 +1,33 @@
 [submodule "backend/api-timestamp/timestamp-microservice"]
 	path = backend/api-timestamp/timestamp-microservice
-	url = https://github.com/escobot/timestamp-microservice.git
+	url = git@github.com:escobot/timestamp-microservice.git
 [submodule "backend/api-request-header/request-header-parser-microservice"]
 	path = backend/api-request-header/request-header-parser-microservice
-	url = https://github.com/escobot/request-header-parser-microservice.git
+	url = git@github.com:escobot/request-header-parser-microservice.git
 [submodule "backend/api-url-shortener/url-shortener-microservice"]
 	path = backend/api-url-shortener/url-shortener-microservice
-	url = https://github.com/escobot/url-shortener-microservice.git
+	url = git@github.com:escobot/url-shortener-microservice.git
 [submodule "backend/api-file-metadata/file-metadata-microservice"]
 	path = backend/api-file-metadata/file-metadata-microservice
-	url = https://github.com/escobot/file-metadata-microservice.git
+	url = git@github.com:escobot/file-metadata-microservice.git
 [submodule "frontend/tribute-page/tribute-page"]
 	path = frontend/tribute-page/tribute-page
-	url = https://github.com/escobot/tribute-page.git
+	url = git@github.com:escobot/tribute-page.git
 [submodule "frontend/random-quote-machine/random-quote-machine"]
 	path = frontend/random-quote-machine/random-quote-machine
-	url = https://github.com/escobot/random-quote-machine.git
+	url = git@github.com:escobot/random-quote-machine.git
 [submodule "backend/api-image-search/image-search-microservice"]
 	path = backend/api-image-search/image-search-microservice
-	url = https://github.com/escobot/image-search-microservice.git
+	url = git@github.com:escobot/image-search-microservice.git
 [submodule "frontend/portfolio/portfolio"]
 	path = frontend/portfolio/portfolio
-	url = https://github.com/escobot/portfolio.git
+	url = git@github.com:escobot/portfolio.git
 [submodule "frontend/local-weather/local-weather"]
 	path = frontend/local-weather/local-weather
-	url = https://github.com/escobot/local-weather.git
+	url = git@github.com:escobot/local-weather.git
 [submodule "frontend/wikipedia-viewer/wikipedia-viewer"]
 	path = frontend/wikipedia-viewer/wikipedia-viewer
-	url = https://github.com/escobot/wikipedia-viewer.git
+	url = git@github.com:escobot/wikipedia-viewer.git
 [submodule "backend/app-book-trading/bookify"]
 	path = backend/app-book-trading/bookify
-	url = https://github.com/escobot/bookify.git
+	url = git@github.com:escobot/bookify.git
