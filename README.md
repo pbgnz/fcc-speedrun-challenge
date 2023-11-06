@@ -37,11 +37,11 @@ git submodule foreach git pull origin main
 |      |  [ ]()  | [Visualize Data with a Heat Map](./data-vis/heat-map) |  |   |
 |      |  [ ]()  | [Show National Contiguity with a Force Directed Graph](./data-vis/force-directed-graph) |  |   |
 |      |  [ ]()  | [Map Data Across the Globe](./data-vis/data-across-globe) |  |   |
-|   07/15/2020   |  Node, Express  | [Timestamp Microservice](./backend/api-timestamp) | [link](https://escobot-timestamp-microservice.glitch.me/) |   |
-|   07/16/2020   |  Node, Express  | [Request Header Parser Microservice](./backend/api-request-header) | [link](https://escobot-request-header-parser-microservice.glitch.me/api/whoami)  |   |
+|   07/15/2020   |  Node, Express  | [Timestamp Microservice](./backend/api-timestamp) | [link](https://timestamp-microservice-wdl5.onrender.com/) |   |
+|   07/16/2020   |  Node, Express  | [Request Header Parser Microservice](./backend/api-request-header) | [link](https://request-header-parser-microservice-oydz.onrender.com)  |   |
 |   07/16/2020   |  Node, Express, Redis, MongoDB  | [URL Shortener Microservice](./backend/api-url-shortener) | []() |   |
-|   07/06/2021   |  Node, Express  | [Image Search Abstraction Layer](./backend/api-image-search) | [link](https://scratched-warm-borogovia.glitch.me/cute%20cat) |   |
-|   07/20/2020   |  Node, Express  | [File Metadata Microservice](./backend/api-file-metadata) | [link](https://escobot-file-metadata-microservice.glitch.me/)  |   |
+|   07/06/2021   |  Node, Express  | [Image Search Abstraction Layer](./backend/api-image-search) | [link](https://api-image-search.onrender.com) |   |
+|   07/20/2020   |  Node, Express  | [File Metadata Microservice](./backend/api-file-metadata) | [link](https://api-file-metadata.onrender.com)  |   |
 |      |  [ ]()  | [Build a Voting App](./backend/app-voting) |  |   |
 |      |  [ ]()  | [Build a Nightlife Coordination App](./backend/app-nightlife) |  |   |
 |      |  [ ]()  | [Chart the Stock Market](./backend/app-stock-market) |  |   |
