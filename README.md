@@ -9,7 +9,7 @@ git submodule update --init --recursive
 
 update all submodules
 ```bash
-git submodule foreach git pull origin main
+git submodule foreach git pull origin master
 ```
 ## FCC Projects
 
